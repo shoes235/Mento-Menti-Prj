@@ -6,6 +6,7 @@
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
 [Mm]emory[Cc]aptures/
+[Pp]roject[Ss]ettings/SceneTemplateSettings.json
 
 *.csproj
 *.unityproj
@@ -20,3 +21,12 @@ Thumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 *.lnk
+*.slnx
+
+.vs/
+*.vsidx
+*.futdcache.v2
+DocumentLayout.json
+*.metadata.v10.bin
+*.projects.v10.bin
+*.strings.v10.bin
